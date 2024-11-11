@@ -99,10 +99,4 @@ json
   "price": 16.99
 }
 
-DELETE /plants/:id
-Deletes a specific plant.
-Example Response:
-json
-{}
-
 Author : Steve Baars
